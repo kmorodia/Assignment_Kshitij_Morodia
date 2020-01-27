@@ -11,4 +11,4 @@ Food:
 Food data is read from a json file. There are predefined colors in the code and colors in json config file that do not match them aer ignored. Food is randomly spawned on the map and then disappears after some time. Same color Streak multipliers is implemented exactly as mentioned.
 
 General:
-Code is made as modular as possible keeping in mid various aspects of the system with different components coordinating as and when required.
+Code is made as modular as possible keeping in mind various aspects of the system with different components coordinating as and when required. The scenes were mostly creaetd from scratch usinf proboilder tool and the spheres used from 2017 standard assets.
